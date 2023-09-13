@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rRuvFo9cGdB59LyBs14xLQagAUcY07fgK1BVnsVix5ZBX7DnRW2YrGlmqn/qVeioXzED7uUrCDV0FekLhd09XA==",
+  "success": true,
+  "projectFilePath": "E:\\Project\\FoodHub\\FoodHub\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
